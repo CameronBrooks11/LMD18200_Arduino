@@ -25,4 +25,4 @@ In the future the goal is to submit to be added to the official Arduino library 
 
 ## Author
 
-Your Name – [cbrook49@uwo.ca](mailto:cbrook49@uwo.ca)
+Cameron K. Brooks – [cbrook49@uwo.ca](mailto:cbrook49@uwo.ca)
