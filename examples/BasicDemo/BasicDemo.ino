@@ -102,7 +102,7 @@ void loop()
                 state = RAMP_DOWN;
                 stateStartTime = currentTime;
             }
-            motor.setSpeed(currentSpeed);
+            motor.write(currentSpeed);
             lastUpdateTime = currentTime;
         }
         break;
@@ -120,7 +120,7 @@ void loop()
             }
             else
             {
-                motor.setSpeed(currentSpeed);
+                motor.write(currentSpeed);
             }
             lastUpdateTime = currentTime;
         }
